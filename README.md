@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/143783124-dd11fd52-acd5-4e43-9f0e-e456e2efc303.png">
   <br />
   Windows Terminal Guide
 </h1>
@@ -9,7 +9,7 @@
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 <p align="center">
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/143783135-593d5a67-9e70-465d-8fb7-3dec81b846b6.png">
 <br />
 </p>
 
@@ -55,13 +55,13 @@
 [Windows Terminal](https://github.com/microsoft/terminal) is a new, modern, feature-rich, productive terminal application for command-line users. It includes many of the features most frequently requested by the Windows command-line community including support for tabs, rich text, globalization, configurability, theming & styling, and more. Take a look at the [Windows Terminal GitHub](https://github.com/Microsoft/Terminal).
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/143783143-265c9c5c-bc33-4742-99a5-655ed2a07150.png">
   <br />
   Windows Terminal
 </p>
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/143783144-72ce368a-5c46-48a7-b57b-60e0f7d26a0b.png">
   <br />
   Terminal Architecture
 </p>
