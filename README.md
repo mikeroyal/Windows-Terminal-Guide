@@ -19,7 +19,7 @@
 
 2. [VSCode Development](https://github.com/mikeroyal/Windows-Terminal-Guide#vscode-development)
 
-    - [VS Code Extensions for Developer Productivity](https://github.com/mikeroyal/-Guide#VS-Code-Extensions-for-Developer-Productivity)
+    - [VS Code Extensions for Developer Productivity](https://github.com/mikeroyal/Windows-Terminal-Guide#VS-Code-Extensions-for-Developer-Productivity)
 
 3. [Windows Subsystem for Linux (WSL)](https://github.com/mikeroyal/Windows-Terminal-Guide#windows-subsystem-for-linux-wsl)
 
@@ -363,7 +363,7 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 [Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents)
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/118413013-01e09100-b652-11eb-95a9-fdb664687470.png">
+ <img src="https://user-images.githubusercontent.com/45159366/143783480-ff81ac86-8971-47bd-a42b-1a430a4f4e20.png">
   <br />
 </p>
 
