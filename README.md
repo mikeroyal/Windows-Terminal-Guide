@@ -200,7 +200,7 @@ VS Code Marketplace
 [Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents)
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/82762656-18de0180-9db7-11ea-9676-ee6fcae615a1.png">
+ <img src="https://user-images.githubusercontent.com/45159366/146082215-7d80b8b7-4da6-4280-900d-4ce4cd30df7e.png">
 </p>
 
 <img src="https://user-images.githubusercontent.com/45159366/107585931-e6c63700-6bb3-11eb-8f25-f07f8ff05688.png">
