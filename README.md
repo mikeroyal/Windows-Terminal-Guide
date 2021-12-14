@@ -203,9 +203,6 @@ VS Code Marketplace
  <img src="https://user-images.githubusercontent.com/45159366/146082215-7d80b8b7-4da6-4280-900d-4ce4cd30df7e.png">
 </p>
 
-<img src="https://user-images.githubusercontent.com/45159366/107585931-e6c63700-6bb3-11eb-8f25-f07f8ff05688.png">
-
-
 ## WSL Learning Resources
 
 [WSL 2 Linux Kernel on GitHub](https://github.com/microsoft/WSL2-Linux-Kernel) is the source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2).
